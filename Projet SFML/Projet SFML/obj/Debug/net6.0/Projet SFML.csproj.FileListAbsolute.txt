@@ -1,0 +1,156 @@
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.csproj.AssemblyReference.cache
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.AssemblyInfoInputs.cache
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.AssemblyInfo.cs
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.csproj.CoreCompileInputs.cache
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.exe
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.deps.json
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.runtimeconfig.json
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.pdb
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.Audio.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.Graphics.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.System.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.Window.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.csproj.CopyComplete
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\refint\Projet SFML.dll
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.pdb
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.genruntimeconfig.cache
+C:\Users\hospi\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\ref\Projet SFML.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\refint\Projet SFML.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.pdb
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.exe
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.deps.json
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.runtimeconfig.json
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\Projet SFML.pdb
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.Audio.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.Graphics.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.System.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\SFML.Window.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-System.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x64\native\openal32.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-System.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\bin\Debug\net6.0\runtimes\win-x86\native\openal32.dll
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.csproj.AssemblyReference.cache
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.AssemblyInfoInputs.cache
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.AssemblyInfo.cs
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.csproj.CoreCompileInputs.cache
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.csproj.CopyComplete
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\Projet SFML.genruntimeconfig.cache
+C:\Users\33781\source\repos\sfml-project-lucas-alessandro\Projet SFML\Projet SFML\obj\Debug\net6.0\ref\Projet SFML.dll
